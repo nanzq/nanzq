@@ -16,7 +16,7 @@ I’m a cybersecurity researcher and penetration tester interested in how system
 ```
 ## What I Work On
 
-```text
+
 Web Application Security  ███████████████████░
 API Security              █████████████████░░░
 Network Security          ██████████████████░░
